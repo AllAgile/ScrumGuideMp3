@@ -1,7 +1,7 @@
 # ScrumGuideMp3
-Mp3 Recording of the Scrum Guide - Work in Progress 
+Mp3 Recording of the Scrum Guide 2017
 
-Audio Recording of Scrum Guide 2017 is Made by 
+Audio Recording of Scrum Guide 2017 Recored by 
 John Albrecht 
 John@AllAgile.co.uk
 
